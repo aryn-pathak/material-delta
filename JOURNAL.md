@@ -32,5 +32,6 @@ Time spent: approximately. 30 mins
 
 ## DAY FOUR // 22nd March
 - Got a lot of progress on the BOM, now I can start working on CAD
-- I need to watch a tutorial on FreeCAD 
+- I need to watch a tutorial on FreeCAD
+- I also got another insane idea: what if the printer could make filament out of random plastic pieces?
 - Time spent: 1 hour

@@ -43,3 +43,8 @@ Time spent: approximately. 30 mins
 - Another idea: I have found a yt video to directly print plastic shreds instead of making filament first. For this, the printhead has an extension on top of it (like a hat).
 - However this modified printhead will not be able to print filament. To solve this problem, I will have two printheads, which can be swapped magnetically.
 - The bracket which is controlled by the belt will have neodymium magnets embedded. the swappable printheads too will have magnets embedded.
+
+- I found this resource: https://www.instructables.com/DIY-3D-Printer-From-Scratch/ which has helped me a TON! Everything just got a who lot easier, because I had so many misconceptions regarding the structure and mechanisms.
+- I will be ditching the linear rails entirely and use smooth rods.
+- Also, my old bracket for the belt was supposed to be attached to the belt using grooves, but watching a video, I can just attach it using a ziptie.
+- Also, I will now be using open belts instead of closed ones, which is a good thing, because I couldn't find an appropriate size for the belt.

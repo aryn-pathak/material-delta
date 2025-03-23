@@ -48,3 +48,8 @@ Time spent: approximately. 30 mins
 - I will be ditching the linear rails entirely and use smooth rods.
 - Also, my old bracket for the belt was supposed to be attached to the belt using grooves, but watching a video, I can just attach it using a ziptie.
 - Also, I will now be using open belts instead of closed ones, which is a good thing, because I couldn't find an appropriate size for the belt.
+
+- Finally got started on CAD today, (only started tho 😬)
+- Need to get much much more productive tommorow 
+
+Time spent today: 2 hours (was planning on 5 tho)

@@ -34,4 +34,12 @@ Time spent: approximately. 30 mins
 - Got a lot of progress on the BOM, now I can start working on CAD
 - I need to watch a tutorial on FreeCAD
 - I also got another insane idea: what if the printer could make filament out of random plastic pieces?
-- Time spent: 1 hour
+- Time spent: 2.5 hours
+
+## DAY FIVE // 23rd March 
+- Yesterday night, while racking my brain, I decided to make a bedslinger instead of X and Y axes being controlled by the printhead.
+- X and Z axes will be controlled by the printhead, Y will be controlled by the heatbed. 
+- X and Y to be controlled with belt and Z will be controlled by lead screws.
+- Another idea: I have found a yt video to directly print plastic shreds instead of making filament first. For this, the printhead has an extension on top of it (like a hat).
+- However this modified printhead will not be able to print filament. To solve this problem, I will have two printheads, which can be swapped magnetically.
+- The bracket which is controlled by the belt will have neodymium magnets embedded. the swappable printheads too will have magnets embedded.

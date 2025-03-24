@@ -1,6 +1,6 @@
 Made by: @aryan
 Repository link: https://github.com/aryn-pathak/material-zero/
-Total hours so far: 3
+Total hours so far: 10.5 
 
 - [x] I have access to a 3D printer (printing-leigon)
 
@@ -53,3 +53,12 @@ Time spent: approximately. 30 mins
 - Need to get much much more productive tommorow 
 
 Time spent today: 2 hours (was planning on 5 tho)
+
+DAY SIX // 24th March
+- I was quite productive today, much progress on CAD (completed X and Z axes):
+
+![X and Z axes](https://hc-cdn.hel1.your-objectstorage.com/s/v3/51154a908ddcd4e170b69a1fa0464eb5b0e29f78_img_0326.jpg)
+
+- I'm hoping I can complete the Y axis aswell, and then complete the printhead and heatbed tommorow, but I have homework to do :heavysob:
+
+CAD: 3 hours

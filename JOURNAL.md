@@ -61,4 +61,15 @@ DAY SIX // 24th March
 
 - I'm hoping I can complete the Y axis aswell, and then complete the printhead and heatbed tommorow, but I have homework to do :heavysob:
 
+- Sadly I wasn't able to continue any work after this, but I will make some sketches tonight for the Y axis, and maybe of the structure too.
+
+- I'm also thinking of making my own motherboard, as it gives me full freedom, however, I'll have to research before I can commit to it. (I also wanted to make my own firmware but I figured time isn't on my side and it's overkill)
+
+- Also, here are some of my sketches of old and new designs so far:
+![sketch1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6f355e900b0061c73665333bd9642c0225e2e9a8_img_20250324_225829691_2.jpg)
+![sketch2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4234bece10737d80410451c42806a35a03824194_img_20250324_225758611.jpg)
+![sketch3](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a2265cf7e93b79f979d287e90ee0cce002096f21_img_20250324_225712216_2.jpg)
+
+I love how messy they look :D
+
 CAD: 3 hours

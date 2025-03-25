@@ -85,6 +85,6 @@ DAY SEVEN // 26th March
 Here's the CAD till now:
 ![CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/916e223f7d019f3a60dcb6d4e93ef999c94f1ff4_img_0328.jpg)
 
-!([CAD2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/525c021bc8332c72f5caf2e0854ef1367404aa72_img_0330.jpg)
+![CAD2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/525c021bc8332c72f5caf2e0854ef1367404aa72_img_0330.jpg)
 
 Research: 2 hours, CAD: 2 hours.

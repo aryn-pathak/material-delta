@@ -1,6 +1,6 @@
 Made by: @aryan
 Repository link: https://github.com/aryn-pathak/material-zero/
-Total hours so far: 10.5 
+Total hours so far: 14.5
 
 - [x] I have access to a 3D printer (printing-leigon)
 
@@ -78,5 +78,13 @@ DAY SEVEN // 26th March
 - I got straight into PCB design for the motherboard, but I'm reconsidering now, maybe I don't need to make my own motherboard.
 - If I'm done with the entire thing and still have time left, I'll start working on it.
 - Also, some research revealed I can't use USBC to power the printer D:
+- Quite some progress today, worked on Y axis (all 3 axes successfully done)
+- I can get to making the printhead and structure tommorow.
+- If I have time, I'll make my own motherboard with an rpi zero W as the controller (I have some)
 
-Research: 2 hours
+Here's the CAD till now:
+!(CAD1)[https://hc-cdn.hel1.your-objectstorage.com/s/v3/916e223f7d019f3a60dcb6d4e93ef999c94f1ff4_img_0328.jpg]
+
+!(CAD2)[https://hc-cdn.hel1.your-objectstorage.com/s/v3/525c021bc8332c72f5caf2e0854ef1367404aa72_img_0330.jpg]
+
+Research: 2 hours, CAD: 2 hours.

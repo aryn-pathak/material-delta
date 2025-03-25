@@ -73,3 +73,10 @@ DAY SIX // 24th March
 I love how messy they look :D
 
 CAD: 3 hours
+
+DAY SEVEN // 26th March
+- I got straight into PCB design for the motherboard, but I'm reconsidering now, maybe I don't need to make my own motherboard.
+- If I'm done with the entire thing and still have time left, I'll start working on it.
+- Also, some research revealed I can't use USBC to power the printer D:
+
+Research: 2 hours

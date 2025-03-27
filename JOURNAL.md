@@ -1,6 +1,6 @@
 Made by: @aryan
 Repository link: https://github.com/aryn-pathak/material-zero/
-Total hours so far: 14.5
+Total hours so far: 15.5
 
 - [x] I have access to a 3D printer (printing-leigon)
 
@@ -74,7 +74,7 @@ I love how messy they look :D
 
 CAD: 3 hours
 
-DAY SEVEN // 26th March
+DAY SEVEN // 25th March
 - I got straight into PCB design for the motherboard, but I'm reconsidering now, maybe I don't need to make my own motherboard.
 - If I'm done with the entire thing and still have time left, I'll start working on it.
 - Also, some research revealed I can't use USBC to power the printer D:
@@ -88,3 +88,18 @@ Here's the CAD till now:
 ![CAD2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/525c021bc8332c72f5caf2e0854ef1367404aa72_img_0330.jpg)
 
 Research: 2 hours, CAD: 2 hours.
+
+DAY EIGHT // 26 March
+(logging on 27th March)
+
+- Couldn't get much work done today, but did some research and found a nice midrange motherboard and found a great extruder kit (Titan kit) for quite cheap!
+
+research: ~45 minutes
+
+DAY NINE // 27 March
+
+- Hoping to finish the frame, add the finishing touches.
+- I'll also add neopixel lighting to the printer and the printhead if possible (it'll look sick)
+- I'll also implement the magnetic attachment of the printhead to the carriage. Will use pogo pins for wiring so I don't have to rewire everytime I have to change the printhead.
+- I'll (atleast) try to make the filament-less printhead today too.
+- So if all that is done, I'll be left with the PCB for tommorow, finer finishing touches (if required) and hopefully submit it :D

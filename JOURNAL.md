@@ -1,6 +1,6 @@
 Made by: @aryan
 Repository link: https://github.com/aryn-pathak/material-zero/
-Total hours so far: 15.5
+Total hours so far: 22 hours
 
 - [x] I have access to a 3D printer (printing-leigon)
 
@@ -93,13 +93,31 @@ DAY EIGHT // 26 March
 (logging on 27th March)
 
 - Couldn't get much work done today, but did some research and found a nice midrange motherboard and found a great extruder kit (Titan kit) for quite cheap!
-
+![titan extruder kit](https://hc-cdn.hel1.your-objectstorage.com/s/v3/81b9cd3318ebc249dc070a838d3868e34c5ba1fb_img_0332.jpg)
+![titan extruder kit](https://hc-cdn.hel1.your-objectstorage.com/s/v3/48ccb7ab9130cc862169591c919dbcd0a6203735_img_0331.jpg)
 research: ~45 minutes
 
 DAY NINE // 27 March
 
-- Hoping to finish the frame, add the finishing touches.
-- I'll also add neopixel lighting to the printer and the printhead if possible (it'll look sick)
-- I'll also implement the magnetic attachment of the printhead to the carriage. Will use pogo pins for wiring so I don't have to rewire everytime I have to change the printhead.
-- I'll (atleast) try to make the filament-less printhead today too.
-- So if all that is done, I'll be left with the PCB for tommorow, finer finishing touches (if required) and hopefully submit it :D
+- Finished frame today :D (fixed a lot of errors in the model too)
+- Researched a bit too
+- Had some progress today, but not nearly as much as I had planned :heavysob:
+
+research: 45 minutes 
+CAD: 2 hours
+
+DAY TEN // 28 March
+
+- Refined the frame today, built the magnetic toolhead and the adapter for my titan extruder!!
+
+![toolhead](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b3690f2c58986f4b36e526681b818ef2d066cf56_img_0335.jpg)
+![toolhead](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bcf26836a9ae620402b81ec7d6a0e919937cf2bb_img_0334.jpg)
+![toolhead](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fb90b902f9c20059bca4af246f1f7d97c6171a42_img_0333.jpg)
+- Completely finished with my printer... or so i thought 
+![printer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a559a3c203438644a7c983c075a69d37a633c0ba_img_0336.jpg)
+- I talked to some people on slack and research a bit (a lot), and I'm gonna use extrusions for the frame.
+- Luckily I found some mounts on novo3d which fit perfectly with the 2040 profile extrusions.
+- I started working on the new frame, but I'll do the rest tommorow.
+
+Research: 2.5 hours (approx)
+CAD: 2.5 hours

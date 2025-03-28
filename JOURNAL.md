@@ -1,6 +1,6 @@
 Made by: @aryan
 Repository link: https://github.com/aryn-pathak/material-zero/
-Total hours so far: 22 hours
+Total hours so far: 24 hours
 
 - [x] I have access to a 3D printer (printing-leigon)
 

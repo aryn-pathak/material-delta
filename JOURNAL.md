@@ -1,6 +1,6 @@
 Made by: @aryan
 Repository link: https://github.com/aryn-pathak/material-zero/
-Total hours so far: 24 hours
+Total hours so far: 26.5 hours
 
 - [x] I have access to a 3D printer (printing-leigon)
 
@@ -109,7 +109,6 @@ CAD: 2 hours
 DAY TEN // 28 March
 
 - Refined the frame today, built the magnetic toolhead and the adapter for my titan extruder!!
-
 ![toolhead](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b3690f2c58986f4b36e526681b818ef2d066cf56_img_0335.jpg)
 ![toolhead](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bcf26836a9ae620402b81ec7d6a0e919937cf2bb_img_0334.jpg)
 ![toolhead](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fb90b902f9c20059bca4af246f1f7d97c6171a42_img_0333.jpg)
@@ -121,3 +120,10 @@ DAY TEN // 28 March
 
 Research: 2.5 hours (approx)
 CAD: 2.5 hours
+
+DAY ELEVEN// 29 March
+- Made progress on the Y axis using extrusions, but I need to figure out how to connect the belt to my heatbed. Gonna use Gantry beds instead of rods for the Y axis.
+- Also made a bracket to connect the Z axis to the extrusions.
+- Much less progress than I hoped for, but I'll finish the printer by tommorow most likely.
+
+CAD + some research: 2 hours 25 minutes

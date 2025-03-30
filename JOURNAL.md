@@ -1,6 +1,6 @@
 Made by: @aryan
 Repository link: https://github.com/aryn-pathak/material-zero/
-Total hours so far: 26.5 hours
+Total hours so far: 29.5 hours
 
 - [x] I have access to a 3D printer (printing-leigon)
 
@@ -121,9 +121,18 @@ DAY TEN // 28 March
 Research: 2.5 hours (approx)
 CAD: 2.5 hours
 
-DAY ELEVEN// 29 March
+DAY ELEVEN // 29 March
 - Made progress on the Y axis using extrusions, but I need to figure out how to connect the belt to my heatbed. Gonna use Gantry beds instead of rods for the Y axis.
 - Also made a bracket to connect the Z axis to the extrusions.
 - Much less progress than I hoped for, but I'll finish the printer by tommorow most likely.
 
 CAD + some research: 2 hours 25 minutes
+
+DAY TWELVE // 30 March 
+- Completed the printer with extrusions today :D
+- I'll use the remaining days to work on finishing touches and adding features.
+- Didn't get research done today since I was traveling tho
+
+![printer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1bd5ba2f538b27c5319706f278c6a651c9f859e8_img_0342.jpg)
+
+CAD: 3 hours 

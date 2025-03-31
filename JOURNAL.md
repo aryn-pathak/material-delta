@@ -136,3 +136,9 @@ DAY TWELVE // 30 March
 ![printer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1bd5ba2f538b27c5319706f278c6a651c9f859e8_img_0342.jpg)
 
 CAD: 3 hours 
+
+DAY THIRTEEN // 31 March
+- Today is mostly for research and implementing special features.
+- For now, scratch the vision for my printer I had mentioned before, for now, the printer will have the following features:
+    - Hands free printing: I want to build a printer that requires minimal human input and contact with the printer. I will connect a raspberry pi zero to the motherboard to add more features and use a web interface for starting prints automatically.
+    - I also don't want to spend too much time fiddling with the print settings everytime I need to print something. I want to just plug it in, upload a file (remotely), and boom- all the settings will be configured by algorithms on the raspberry pi and the print will start.

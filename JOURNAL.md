@@ -1,6 +1,6 @@
 Made by: @aryan
 Repository link: https://github.com/aryn-pathak/material-zero/
-Total hours so far: 29.5 hours
+Total hours so far: 34 Hours
 
 - [x] I have access to a 3D printer (printing-leigon)
 
@@ -142,3 +142,11 @@ DAY THIRTEEN // 31 March
 - For now, scratch the vision for my printer I had mentioned before, for now, the printer will have the following features:
     - Hands free printing: I want to build a printer that requires minimal human input and contact with the printer. I will connect a raspberry pi zero to the motherboard to add more features and use a web interface for starting prints automatically.
     - I also don't want to spend too much time fiddling with the print settings everytime I need to print something. I want to just plug it in, upload a file (remotely), and boom- all the settings will be configured by algorithms on the raspberry pi and the print will start.
+
+DAY FOURTEEN // 6 April
+
+DAY FIFTEEN // 7 April
+- Pure CAD today. Absolutely nothing else.
+- The deadline's closing in, and luckily because of my time zone (IST), this ends on 9:30AM on 8th april, so I'll make the PCB and code and the last bits of CAD early tommorow 🤞
+
+CAD: 4 hours

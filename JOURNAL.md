@@ -1,6 +1,12 @@
 Made by: @aryan
 Repository link: https://github.com/aryn-pathak/material-zero/
-Total hours so far: 34 Hours
+Total hours so far: 39.5 Hours (wished i worked 30 mins more to hit 40 :heavysob:)
+
+Massive thanks to Hack Club and Alex for giving me this insane opportunity to build my own 3D printer!
+
+This is Material ZERO (zero for being the zero-th version of a printer that will be heavily modified to make better versions down the line.), A printer that is easy to modify, upgrade, and most importantly-- to use.
+- Features a truly hands free experience for printing; simply uploading an stl file on the web interface and choosing a preset (fast, hi-res, fast with supports, or hi-res with supports). That's it: slicing, supports, settings, ABL, all handled by Material.
+- The printer also features a magnetic printhead (with wiring!), so swapping out toolheads is just a click of neodyium magnets away!
 
 - [x] I have access to a 3D printer (printing-leigon)
 
@@ -12,15 +18,15 @@ BOM: https://docs.google.com/spreadsheets/d/1OtqszPI16ybW3s_6Pz4gcUsUTPw2b_rEn2W
 
 ## DAY TWO // 19th March
 - Curated the BOM today, and I have a vision of what I want my printer to have:
-- Should have USBC, Portable, size perhaps 55 x 55 x 55, Battery powered (obvio). Preferably but not compulsorily wireless
-- Since this is going to be portable, the hotbed should have a firmer grip.
+- ~~Should have USBC, Portable, size perhaps 55 x 55 x 55, Battery powered (obvio). Preferably but not compulsorily wireless~~
+- ~~Since this is going to be portable, the hotbed should have a firmer grip.~~ I would've loved these features but it'd be hella impractical and slow and inefficient 
 Time spent: approximately. 30 mins
 
 ## DAY THREE // 21st March
 - I need to lock in for the next ten days now.
 - Im making the BOM in google docs now, and the parts I found out earlier are now out of stock/very low stock, so I'll make a BOM from novo3d.in
 - Also, I have decided to make a slightly different kind of printer, new requirements:
-    - USBC, WiFi/BLE compatibility
+    - ~~USBC~~, WiFi/BLE compatibility
     - Should be fast
     - It should continue printing right where it left off in case of power outage
     - Should have a camera and software to create good timelapses
@@ -33,7 +39,7 @@ Time spent: approximately. 30 mins
 ## DAY FOUR // 22nd March
 - Got a lot of progress on the BOM, now I can start working on CAD
 - I need to watch a tutorial on FreeCAD
-- I also got another insane idea: what if the printer could make filament out of random plastic pieces?
+- I also got another insane idea: what if the printer could make filament out of random plastic pieces? (note from future: will add this feature through a custom printhead/bottle cutter filament thing that I'll print with my printer)
 - Time spent: 2.5 hours
 
 ## DAY FIVE // 23rd March 
@@ -144,9 +150,25 @@ DAY THIRTEEN // 31 March
     - I also don't want to spend too much time fiddling with the print settings everytime I need to print something. I want to just plug it in, upload a file (remotely), and boom- all the settings will be configured by algorithms on the raspberry pi and the print will start.
 
 DAY FOURTEEN // 6 April
+- Worked on software only today
+- The printer will be equipped with software for truly hands-free operation, which means the user just has to upload the STL file, which gets stored, sliced, with supports (if required).
+- This will mean that a raspberry Pi will be connected to the btt e3 mini acting as the computer uploading the file. The firmware is in a very early age, and will get a lot of features later on yay
+
+Code: 1 hour
 
 DAY FIFTEEN // 7 April
 - Pure CAD today. Absolutely nothing else.
 - The deadline's closing in, and luckily because of my time zone (IST), this ends on 9:30AM on 8th april, so I'll make the PCB and code and the last bits of CAD early tommorow 🤞
 
 CAD: 4 hours
+
+DAY SIXTEEN // 8 April
+- DONEDONEDONEDONEDONEDONE
+- (woke up at 5:30, skipped school, finished the printer by 10AM)
+- Finished CAD, Finished software, Compiled BOM (along with screws!)
+
+CAD: 1.5h
+Research, BOM, etc: 2h
+Coding: 45 mins
+(screentime shows music: 1h 45mins...?)
+total: 4.5 hours

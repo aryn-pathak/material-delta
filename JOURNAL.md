@@ -172,3 +172,8 @@ Research, BOM, etc: 2h
 Coding: 45 mins
 (screentime shows music: 1h 45mins...?)
 total: 4.5 hours
+
+![printer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bb45e4e920aa31c998ee487f1eab0c23fa537d86_img_0352.jpg)
+![printer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c59a246a0887d9591b759d5a10451046025019f4_img_0351.jpg)
+![printer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/71f25230b12f1a2fbb7213978c2048fba0135ae2_img_0350.jpg)
+![printer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/aef578c79c484d14664dc3de9585a45ee10597e4_img_0349.jpg)

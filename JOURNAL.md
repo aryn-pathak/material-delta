@@ -12,6 +12,11 @@ This is Material ZERO (zero for being the zero-th version of a printer that will
 
 BOM: https://docs.google.com/spreadsheets/d/1OtqszPI16ybW3s_6Pz4gcUsUTPw2b_rEn2WlHAjkEtA/
 
+**NOTE: THE ENTIRE PRINTER WAS REBUILT AFTER A REALISATION MUCH LATER, WITH A COMPLETELY NEW CONCEPT. THE FOLLOWING LOG FOLLOWS THE DEVELOPMENT OF THAT, FOR THE ORIGINAL LOG, PLEASE SCROLL DOWN**
+
+## DAY ONE // 25 may
+
+--OLD LOG--
 ## DAY ONE // 18th March
 - I'm new to this so I did a ton of research today :D. I have gained an understanding of mechanisms, and feel much more confident now!
 - Research time: 1 hour

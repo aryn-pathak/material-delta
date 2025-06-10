@@ -36,3 +36,11 @@ I even found a set of 12 threaded balls and sockets, which was really helpful si
 
 ## DAY FIFTEEN
 I'll try to submit the printer finally today, so the documentation, logs, final BOM, finishing touches-- I'll get all that done today and submit it :D
+
+## DAY SIXTEEN-SEVENTEEN
+Worked on BOM, finishing touches here and there, and finally submitting it after 40+36 hours 😭
+
+here are some images for you :)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8a4dcad0904abcef704119de1344ff9c21bd588e_img-20250609-wa0000.jpg)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/85646aa2813d91d2908066b0b6b41089a6ea1d99_img-20250609-wa0001.jpg)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7a84de9ee1d1bf4c3e9fcd3e8fa14ff9d337cd1a_img-20250609-wa0002.jpg)

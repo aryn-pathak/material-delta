@@ -1,4 +1,7 @@
-Made by: @aryan Repository link: https://github.com/aryn-pathak/material-zero/ Total hours so far: 39.5 Hours (wished i worked 30 mins more to hit 40 :heavysob:)
+Made by: @aryan Repository link: https://github.com/aryn-pathak/material-zero/ 
+
+TOTAL TIME (source screentime): ~36 Hours (and 40 hours on old printer)
+
 
 Massive thanks to Hack Club and Alex for giving me this insane opportunity to build my own 3D printer!
 

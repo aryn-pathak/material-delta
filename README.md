@@ -15,4 +15,4 @@ Huge huge huge thanks to Hack Club and Alex (the organizer of this ysws) for mak
 
 Powered by open source [material software](https://github.com/aryn-pathak/material-software) built by meee
 
-![pic yay](https://hc-cdn.hel1.your-objectstorage.com/s/v3/aef578c79c484d14664dc3de9585a45ee10597e4_img_0349.jpg)
+https://docs.google.com/spreadsheets/d/1ErfHmYfYiqMRnXNVbDVsYIP3DpmYOKa74jVyMKNP7Ss/edit?usp=sharing

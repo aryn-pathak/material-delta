@@ -30,12 +30,20 @@ Did some chatGPT-ing for design ideas, and also realised carbon fiber rods were 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f475f5214940dc7380f694d27d2b6b7d532c8e06_img_0405.jpg)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/166e2051e640e8bdc4808fcce23239e446d3f43c_img_0404.jpg)
 
+I also designed the carriage today:
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ef8303c50a4711215ca1f171c3fa7ccdd9aba0fc_img_0408.jpg)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8a7604047e90eb4ef0b0df3963680a9203d99c77_img_0406.jpg)
+
+
 ## DAY EIGHT
 EXTRUDER SHOPPING !! im using a bowden setup, and all hotends are either more expensive than my entire printer or slow and generic. My custom hotend assembly would be made of a V6 heatsink, 65W heat cartridge (not the best, ik, but it fits in my power budget of 100W for USBC), a volcano style heatblock, CHT 0.4mm nozzle, and a bimetal heatbreak.
 
 Volcano heatblock (slightly different from V6, provides better heat retention (needed for low wattage heater):
+
 ![Screenshot 2025-06-28 at 4 14 47 PM](https://github.com/user-attachments/assets/d5832562-6553-4279-9ab4-93b98a9eafd1)
+
 CHT nozzle with 3 holes for better melting efficiency:
+
 ![Screenshot 2025-06-28 at 4 18 40 PM](https://github.com/user-attachments/assets/7d97036f-7f84-475a-bb57-4e15fd1c525d)
 
 
@@ -46,8 +54,9 @@ Curated the BOM, currently, the printer costs about 100USD (1/3rd of the max bud
 Wasted a ton of time again, this time for designing the effector (the hotend carrier). I had to design a duct for the 5015 blower too, and made 3-4 iterations of it, but finally settled on a super simple duct and overall design, and also looks great.
 I even found a set of 12 threaded balls and sockets (called 5347 rod ends), which was really helpful since the 3D printed ones wouldnt give a lot of freedom of movement.
 ![Screenshot 2025-06-28 at 4 20 42 PM](https://github.com/user-attachments/assets/507b3bdf-74cb-45fe-9db7-881fd83b56eb)
-I also found out that these are for 3mm rods, so i had to design an adapter for my 6mm rods.
-![](
+
+I also found out that these are for 3mm rods, so i had to design an adapter for my 6mm rods:
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e49f08b74417b5816ad6a0c806ddaac74bfa6177_img_0409.jpg)
 
 ## DAY FIFTEEN
 I'll try to submit the printer finally today, so the documentation, logs, final BOM, including the most important parts-- USBC PD negotiation board and all the small parts needed to make it work, like buck converters, boosters, etc. finishing touches-- I'll get all that done today and submit it :D

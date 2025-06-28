@@ -26,6 +26,9 @@ Wasted a ton of time on making the top and bottom holders (out of carbon fiber t
 
 ## DAY SIX-SEVEN
 Did some chatGPT-ing for design ideas, and also realised carbon fiber rods were insanely impractical and unstable, so i decided to make the frame out of 2020 AND 2040 extrusions. Also found something called "Kossel-style corners" which are 3D printed holders for the frame
+![kossel corners](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8a7604047e90eb4ef0b0df3963680a9203d99c77_img_0406.jpg)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f475f5214940dc7380f694d27d2b6b7d532c8e06_img_0405.jpg)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/166e2051e640e8bdc4808fcce23239e446d3f43c_img_0404.jpg)
 
 ## DAY EIGHT
 EXTRUDER SHOPPING !! im using a bowden setup, and all hotends are either more expensive than my entire printer or slow and generic. My custom hotend assembly would be made of a V6 heatsink, 65W heat cartridge (not the best, ik, but it fits in my power budget of 100W for USBC), a volcano style heatblock, CHT 0.4mm nozzle, and a bimetal heatbreak.
@@ -44,6 +47,7 @@ Wasted a ton of time again, this time for designing the effector (the hotend car
 I even found a set of 12 threaded balls and sockets (called 5347 rod ends), which was really helpful since the 3D printed ones wouldnt give a lot of freedom of movement.
 ![Screenshot 2025-06-28 at 4 20 42 PM](https://github.com/user-attachments/assets/507b3bdf-74cb-45fe-9db7-881fd83b56eb)
 I also found out that these are for 3mm rods, so i had to design an adapter for my 6mm rods.
+![](
 
 ## DAY FIFTEEN
 I'll try to submit the printer finally today, so the documentation, logs, final BOM, including the most important parts-- USBC PD negotiation board and all the small parts needed to make it work, like buck converters, boosters, etc. finishing touches-- I'll get all that done today and submit it :D

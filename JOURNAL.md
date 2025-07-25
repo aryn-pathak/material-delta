@@ -2,12 +2,19 @@ Made by: @aryan Repository link: https://github.com/aryn-pathak/material-zero/
 
 TOTAL TIME (source screentime): ~36 Hours (and 40 hours on old printer)
 
+---
+title: "Material DELTA"
+author: "aryan pathak"
+description: "A Delta style printer, powered by USB-C"
+created_at: "2025-06-02"
+---
+
 
 Massive thanks to Hack Club and Alex for giving me this insane opportunity to build my own 3D printer!
 
 This is Material DELTA, An open source, superfast, super cheap, (most importantly) USBC powered, Delta-style 3D printer.
 
-## DAY ONE // 25TH MAY
+## DAY ONE
 My old printer wasn't for a long time since i submitted it on 7th of april, but that gave me time to realise that it wasn't good. It was unnecesarily expensive, structure was unstable and probably slow, the printer was very average and didn't have any big innovative feature (just hands free printing powered by an RPi and a web server)
 Post some research, I came across a much more uncommon kinematic of 3D printers-- Delta. One of the goals of my old printer (that I realised was beyond unrealistic), was powering it with USBC. A delta printer meant there would be so little load on each motor, current draw would be very minimal.
 

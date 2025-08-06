@@ -143,3 +143,20 @@ here are some images for you :)
 | **TOTAL**        |                                    |                                                                                                                                                                                                                          | **₹15500**  | **$186**    |
 
 ## NOTE: Aluminium print bed is fixed to extrusions using screws. Will be sut and drilled at a local shop
+
+
+# EDITS AFTER SUBMISSION 
+
+- Made new duct, with clearance and pointing right below the nozzle (instead of on it)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fbb0ac63ad86bbb9453cc5bbdc26b4ebe4439bd_img_0437.jpg)
+
+- Made it taller for more Z axis
+- Added bowden mount for extruder
+- Added filament holder
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e9eb9c6ef11d5682f2b4bb4cda2585be4231fcbc_img_0439.jpg)
+
+- Modelled in the boards
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6a45768d1c6a08bc33399e1b9a9c553a3f4d5050_img_0438.jpg)

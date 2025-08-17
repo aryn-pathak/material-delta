@@ -84,3 +84,13 @@ Huge huge huge thanks to Hack Club and for making this possible :D
 - Modelled in the boards
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6a45768d1c6a08bc33399e1b9a9c553a3f4d5050_img_0438.jpg)
+
+# MORE EDITS AFTER SUBMISSION
+- Fixed duct based on feedback from reviewers!
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f2c3d4b18db15aea9853139488581173a05e6f26_img_0442.jpg)
+
+- Made new filament holder
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/930c8f842899a17eacacc1dce9ec01015286f33e_img_0443.jpg)
+
+- Added belt tensioners!
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ee7d6f2020f1d97f607929e51035c1a083495c4f_img_0441.jpg)

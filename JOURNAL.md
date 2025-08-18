@@ -5,10 +5,12 @@ Repository link: https://github.com/aryn-pathak/material-zero/
 TOTAL TIME (source screentime): ~36 Hours (and 40 hours on old printer)
 
 ---
+
 title: "Material DELTA"
 author: "aryan pathak"
 description: "A Delta style printer, powered by USB-C"
 created_at: "2025-06-02"
+
 ---
 
 

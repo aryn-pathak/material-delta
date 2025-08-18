@@ -69,8 +69,7 @@ The Material DELTA is an opensource delta style 3D printer, built for speed, poc
 
 Huge huge huge thanks to Hack Club and for making this possible :D
 
-# EDITS AFTER SUBMISSION 
-
+# EDITS
 - Made new duct, with clearance and pointing right below the nozzle (instead of on it)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fbb0ac63ad86bbb9453cc5bbdc26b4ebe4439bd_img_0437.jpg)
@@ -85,7 +84,6 @@ Huge huge huge thanks to Hack Club and for making this possible :D
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6a45768d1c6a08bc33399e1b9a9c553a3f4d5050_img_0438.jpg)
 
-# MORE EDITS AFTER SUBMISSION
 - Fixed duct based on feedback from reviewers!
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f2c3d4b18db15aea9853139488581173a05e6f26_img_0442.jpg)
 
